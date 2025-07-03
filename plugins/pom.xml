@@ -26,9 +26,10 @@
     </parent>
 
     <artifactId>unomi-plugins</artifactId>
+    <packaging>pom</packaging>
+
     <name>Apache Unomi :: Plugins</name>
     <description>Apache Unomi Context Server plugins</description>
-    <packaging>pom</packaging>
 
     <modules>
         <module>baseplugin</module>

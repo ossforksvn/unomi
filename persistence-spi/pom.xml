@@ -26,9 +26,10 @@
     </parent>
 
     <artifactId>unomi-persistence-spi</artifactId>
+    <packaging>bundle</packaging>
+
     <name>Apache Unomi :: Persistence :: SPI (Service Provider Interface)</name>
     <description>Service Provider interface for the Apache Unomi Context Server</description>
-    <packaging>bundle</packaging>
 
     <dependencies>
         <dependency>

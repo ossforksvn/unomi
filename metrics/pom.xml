@@ -25,9 +25,10 @@
     </parent>
 
     <artifactId>unomi-metrics</artifactId>
+    <packaging>bundle</packaging>
+
     <name>Apache Unomi :: Metrics</name>
     <description>Apache Unomi Context Server Metrics</description>
-    <packaging>bundle</packaging>
 
     <dependencies>
 

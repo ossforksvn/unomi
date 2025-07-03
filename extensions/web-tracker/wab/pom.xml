@@ -25,9 +25,10 @@
     </parent>
 
     <artifactId>unomi-web-tracker-wab</artifactId>
+    <packaging>bundle</packaging>
+
     <name>Apache Unomi :: Extension :: Web Tracker :: Wab</name>
     <description>This is a simple Apache Unomi plugin.</description>
-    <packaging>bundle</packaging>
 
     <build>
         <plugins>

@@ -29,14 +29,15 @@
 
     <groupId>org.apache.unomi</groupId>
     <artifactId>unomi-root</artifactId>
+    <version>2.6.1</version>
+    <packaging>pom</packaging>
+
     <name>Apache Unomi :: Root Project</name>
     <description>Apache Unomi is a reference implementation of the OASIS Context Server specification currently being
         worked on by the OASIS Context Server Technical Committee. It provides a high-performance user profile and
         event tracking server.
     </description>
     <url>https://unomi.apache.org</url>
-    <version>2.6.1</version>
-    <packaging>pom</packaging>
 
     <licenses>
         <license>
@@ -59,6 +60,7 @@
 
     <properties>
         <karaf.version>4.2.15</karaf.version>
+
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <cxf.version>3.3.11</cxf.version>
         <version.jackson.core>2.11.4</version.jackson.core>

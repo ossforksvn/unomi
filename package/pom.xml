@@ -27,6 +27,7 @@
 
     <artifactId>unomi</artifactId>
     <packaging>pom</packaging>
+
     <name>Apache Unomi :: Distribution Package</name>
     <description>Packaged distributions of the Apache Unomi Context Server</description>
 

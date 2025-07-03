@@ -26,9 +26,10 @@
     </parent>
 
     <artifactId>unomi-rest</artifactId>
+    <packaging>bundle</packaging>
+
     <name>Apache Unomi :: REST API</name>
     <description>Apache Unomi Context Server REST API</description>
-    <packaging>bundle</packaging>
 
     <dependencies>
         <dependency>

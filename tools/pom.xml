@@ -25,9 +25,10 @@
     </parent>
 
     <artifactId>unomi-tools</artifactId>
+    <packaging>pom</packaging>
+
     <name>Apache Unomi :: Tools</name>
     <description>Apache Unomi Context Server tools</description>
-    <packaging>pom</packaging>
 
     <modules>
         <module>shell-commands</module>

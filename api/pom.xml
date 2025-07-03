@@ -26,9 +26,10 @@
     </parent>
 
     <artifactId>unomi-api</artifactId>
+    <packaging>bundle</packaging>
+
     <name>Apache Unomi :: Specification API</name>
     <description>Main API of the Apache Unomi Context server</description>
-    <packaging>bundle</packaging>
 
     <dependencies>
         <dependency>

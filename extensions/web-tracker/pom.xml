@@ -25,9 +25,10 @@
     </parent>
 
     <artifactId>unomi-web-tracker</artifactId>
+    <packaging>pom</packaging>
+
     <name>Apache Unomi :: Extension :: Web Tracker</name>
     <description>Apache Unomi Context Server to provide the web tracker</description>
-    <packaging>pom</packaging>
 
     <modules>
         <module>wab</module>

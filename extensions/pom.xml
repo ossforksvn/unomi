@@ -26,9 +26,10 @@
     </parent>
 
     <artifactId>unomi-extensions</artifactId>
+    <packaging>pom</packaging>
+
     <name>Apache Unomi :: Extensions</name>
     <description>Apache Unomi Context Server extensions</description>
-    <packaging>pom</packaging>
 
     <modules>
         <module>lists-extension</module>

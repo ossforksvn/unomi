@@ -31,8 +31,9 @@
     </parent>
 
     <artifactId>cxs-privacy-extension</artifactId>
+    <packaging>pom</packaging>
+
     <name>Apache Unomi :: Extensions :: Privacy</name>
     <description>Privacy management extension for the Apache Unomi Context Server</description>
 
-    <packaging>pom</packaging>
 </project>

@@ -25,8 +25,9 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>unomi-manual</artifactId>
-    <name>Apache Unomi :: Manual</name>
     <packaging>bundle</packaging>
+
+    <name>Apache Unomi :: Manual</name>
 
     <properties>
         <doc.source>src/main/asciidoc</doc.source>

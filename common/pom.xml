@@ -26,9 +26,10 @@
     </parent>
 
     <artifactId>unomi-common</artifactId>
+    <packaging>bundle</packaging>
+
     <name>Apache Unomi :: Common Classes</name>
     <description>Common Classes used in the Apache Unomi Context server</description>
-    <packaging>bundle</packaging>
 
     <dependencies>
         <dependency>
