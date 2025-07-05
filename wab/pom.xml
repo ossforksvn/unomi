@@ -26,9 +26,9 @@
     </parent>
 
     <artifactId>unomi-wab</artifactId>
-    <packaging>bundle</packaging>
+    <packaging>war</packaging>
 
-    <name>Apache Unomi :: Core Web Application</name>
+    <name>Apache Unomi :: Core Web Application :: Wab</name>
     <description>Apache Unomi Context Server Core Web application</description>
 
     <dependencies>
