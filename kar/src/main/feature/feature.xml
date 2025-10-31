@@ -91,7 +91,8 @@
         <bundle start-level="85" start="false">mvn:org.apache.unomi/cxs-lists-extension-actions/${project.version}</bundle>
         <bundle start-level="85" start="false">mvn:org.apache.unomi/shell-dev-commands/${project.version}</bundle>
 
-        <bundle start-level="85" start="false">mvn:org.apache.unomi/unomi-wab/${project.version}</bundle>
+        <!-- <bundle start-level="85" start="false">mvn:org.apache.unomi/unomi-wab/${project.version}</bundle> -->
+        <bundle start-level="85" start="false">webbundle:mvn:org.apache.unomi/unomi-wab/${project.version}/war?Web-ContextPath=unomi</bundle>
         <bundle start-level="85" start="false">mvn:org.apache.unomi/unomi-web-tracker-wab/${project.version}</bundle>
 
         <configfile finalname="/etc/org.apache.unomi.migration.cfg">mvn:org.apache.unomi/shell-commands/${project.version}/cfg/migration</configfile>
