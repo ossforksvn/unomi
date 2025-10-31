@@ -38,6 +38,11 @@
         event tracking server.
     </description>
     <url>https://unomi.apache.org</url>
+<<<<<<< HEAD
+=======
+    <version>2.7.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+>>>>>>> e1b939e7d14c23d012ea1d5f586236418f42c5f4
 
     <licenses>
         <license>
@@ -129,7 +134,7 @@
     <scm>
         <connection>scm:git:https://gitbox.apache.org/repos/asf/unomi.git</connection>
         <developerConnection>scm:git:https://gitbox.apache.org/repos/asf/unomi.git</developerConnection>
-        <tag>unomi-root-2.6.1</tag>
+        <tag>HEAD</tag>
         <url>https://gitbox.apache.org/repos/asf/unomi.git</url>
     </scm>
 
